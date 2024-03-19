@@ -24,7 +24,7 @@ TKsiazka::~TKsiazka() {
 }
 
 void TKsiazka::printData() {
-    strona->getNrStrony();
+    cout << strona->getNrStrony() << endl;
 }
 
 void TKsiazka::setData(int tNrStrony) {
