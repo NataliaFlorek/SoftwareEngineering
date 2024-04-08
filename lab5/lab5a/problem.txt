@@ -1,0 +1,1 @@
+Student jest rozszerzeniem klasy człowiek. Uniwersytet może istnieć bez studentów, studenci nie są nieodłącznym elementem uniwersytetu.
